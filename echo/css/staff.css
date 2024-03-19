@@ -1,0 +1,63 @@
+/* Staff Image Styling */
+
+.moderator {
+  border: 3px solid #11806a;
+}
+
+.administrator {
+  border: 3px solid #2ecc71;
+}
+
+.co-manager {
+  border: 3px solid #da004e;
+}
+
+.supervisor {
+  border: 3px solid #ffa8fb;
+}
+
+.manager {
+  border: 3px solid #6c4bd8;
+}
+
+.ceo {
+  border: 3px solid #3498d8;
+}
+
+/* Custom Staff Tags */
+
+.tag.is-moderator {
+  background-color: #11806a;
+  text-shadow: #222222 3px 3px 3px;
+  color: #fff;
+}
+
+.tag.is-administrator {
+  background-color: #2ecc71;
+  text-shadow: #222222 3px 3px 3px;
+  color: #fff;
+}
+
+.tag.is-co-manager {
+  background-color: #da004e;
+  text-shadow: #222222 3px 3px 3px;
+  color: #fff;
+}
+
+.tag.is-supervisor {
+  background-color: #ffa8fb;
+  text-shadow: #222222 3px 3px 3px;
+  color: #fff;
+}
+
+.tag.is-manager {
+  background-color: #6c4bd8;
+  text-shadow: #222222 3px 3px 3px;
+  color: #fff;
+}
+
+.tag.is-ceo {
+  background-color: #3498d8;
+  text-shadow: #021310 3px 3px 3px;
+  color: #fff;
+}
